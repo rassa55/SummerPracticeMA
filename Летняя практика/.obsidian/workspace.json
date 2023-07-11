@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e679fe544d55193",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8c4bf2cace6d5a89",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8c4bf2cace6d5a89",
+  "active": "8b47f767f3e3942a",
   "lastOpenFiles": [
-    "Без названия.md",
-    "Статьи.md"
+    "Статьи.md",
+    "Без названия.md"
   ]
 }
