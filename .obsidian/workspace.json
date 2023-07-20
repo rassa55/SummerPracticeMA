@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Основная часть/Data augmentation.md",
+                "file": "Летняя практика/Статьи.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Основная часть/Data augmentation.md",
+                "file": "Летняя практика/Статьи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Основная часть/Data augmentation.md",
+                "file": "Летняя практика/Статьи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Основная часть/Data augmentation.md"
+                "file": "Летняя практика/Статьи.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "e73556fef9796beb",
   "lastOpenFiles": [
+    "Основная часть/Batch Normalization.md",
+    "Основная часть/Dropout.md",
+    "Pasted image 20230720124155.png",
+    "Pasted image 20230720124137.png",
+    "Летняя практика/Статьи.md",
     "Основная часть/Методы повышения робастности.md",
     "Основная часть/Data augmentation.md",
-    "Основная часть/Dropout.md",
     "Pasted image 20230718140215.png",
-    "Летняя практика/Статьи.md",
     "Основная часть/Методы повышения робастности",
     "Введение/Актуальность работы.md",
     "Основная часть",
