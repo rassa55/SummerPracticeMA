@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Летняя практика/Статьи.md",
+                "file": "Основная часть/Регуляризация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "873195118a221bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Методы оценки/Методики оценки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Летняя практика/Статьи.md",
+                "file": "Методы оценки/Методики оценки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Летняя практика/Статьи.md",
+                "file": "Методы оценки/Методики оценки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Летняя практика/Статьи.md"
+                "file": "Методы оценки/Методики оценки.md"
               }
             }
           }
@@ -146,17 +159,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e73556fef9796beb",
+  "active": "873195118a221bfa",
   "lastOpenFiles": [
+    "Методы оценки/Кросс-валидация.md",
+    "Методы оценки/Методики оценки.md",
     "Основная часть/Регуляризация.md",
-    "Основная часть/Методы повышения робастности.md",
+    "Методы оценки",
+    "Основная часть/Transfer learning.md",
     "Основная часть/Ensemble learning.md",
-    "Летняя практика/Статьи.md",
-    "Основная часть/Batch Normalization.md",
     "Основная часть/Dropout.md",
+    "Основная часть/Data augmentation.md",
+    "Основная часть/Batch Normalization.md",
+    "Летняя практика/Статьи.md",
+    "Летняя практика/Методы повышения робастности.md",
+    "Основная часть/Random input perturbations.md",
     "Pasted image 20230720124155.png",
     "Pasted image 20230720124137.png",
-    "Основная часть/Data augmentation.md",
     "Pasted image 20230718140215.png",
     "Основная часть/Методы повышения робастности",
     "Введение/Актуальность работы.md",
@@ -165,7 +183,6 @@
     "Введение/Цели.md",
     "Введение/Объект исследования.md",
     "Введение/Задачи.md",
-    "Без названия.md",
     "Летняя практика/Абстракции (пока с плохим переводом).md",
     "Введение"
   ]
