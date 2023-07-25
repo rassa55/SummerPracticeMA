@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Абстракции (пока с плохим переводом).md",
+                "file": "Статьи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Абстракции (пока с плохим переводом).md",
+                "file": "Статьи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Абстракции (пока с плохим переводом).md"
+                "file": "Статьи.md"
               }
             }
           }
@@ -171,7 +171,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "45a8dda8d2a79125",
+  "active": "8b47f767f3e3942a",
   "lastOpenFiles": [
     "Статьи.md",
     "Определение робастности.md",
